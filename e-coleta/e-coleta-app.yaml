@@ -26,7 +26,7 @@ spec:
         app: e-coleta
     spec:
       containers:
-      - image: luancarlos021/ecoleta:1.1
+      - image: luancarlos021/ecoleta:1.0
         name: e-coleta
         resources:
           limits:

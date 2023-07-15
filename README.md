@@ -1,0 +1,1 @@
+# Repositório para estudos/testes do k8s

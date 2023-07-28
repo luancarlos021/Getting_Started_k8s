@@ -27,6 +27,7 @@ spec:
     spec:
       containers:
       - image: luancarlos021/ecoleta
+        imagePullPolicy: Always
         name: e-coleta
         resources:
           limits:
